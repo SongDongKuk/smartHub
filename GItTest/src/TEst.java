@@ -15,6 +15,7 @@ public class TEst {
 
 		System.out.println("우리 주말에 뭐해요?");
 		System.out.println("주말에 아이디어 회의하고 밥도먹고 저녁에 좀 놀다가 집가장");
+		System.out.println("넹~");
 
 			
 			String man = "영동";
