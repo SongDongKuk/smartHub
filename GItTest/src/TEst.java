@@ -19,5 +19,9 @@ public class TEst {
 			}else
 				System.out.println("답변하기 힘들어용");
 			
+		for (int i = 0; i < 10; i++) {
+			System.out.println("집에갈까");
+		}
+			
 	}
 }
