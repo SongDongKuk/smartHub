@@ -3,6 +3,8 @@ public class TEst {
 		System.out.println("hello");
 		System.out.println("hello2");
 
+		
+
 		System.out.println("동국이형 잘생겼어요");
 		String[] array = {"동국", "혜린", "의현", "희진", "정환"};
 			for (int j = 0; j < array.length; j++) {
@@ -20,6 +22,10 @@ public class TEst {
 				System.out.println("여러분의 생각은?");
 			}else
 				System.out.println("답변하기 힘들어용");
+			
+		for (int i = 0; i < 10; i++) {
+			System.out.println("집에갈까");
+		}
 			
 	}
 }
